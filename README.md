@@ -1,2 +1,2 @@
 # amcd-common-3d
-Shared Unity Prefabs and Scripts
+Shared utilities for the basic components of a new Unity game repo.

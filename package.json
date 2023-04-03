@@ -1,0 +1,17 @@
+{
+  "name": "amcd-common-3d",
+  "version": "1.0.0",
+  "displayName": "amcd-common-3d",
+  "description": "Shared Unity Prefabs and Scripts",
+  "unity": "2021.3",
+  "keywords": [
+    "HUD",
+    "Utility",
+    "Utils"
+  ],
+  "author": {
+    "name": "Adam G McDaniel",
+    "email": "mcdaniel.adam.g@gmail.com"
+  },
+  "type": "template"
+}
